@@ -27,7 +27,15 @@
 
 ## Karinai
 [![Video Label](http://img.youtube.com/vi/PDt_CBSjzGo/maxresdefault.jpg)](https://youtu.be/PDt_CBSjzGo)
-
+</br>
+<a href="https://youtu.be/PMsvgmEXdYw">
+  <img src="https://img.shields.io/badge/Karinai #1-2A2F3D?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+</a>
+</br>
+<a href="https://youtu.be/PDt_CBSjzGo">
+  <img src="https://img.shields.io/badge/Karinai #2-2A2F3D?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
+</a>
+</br>
 <a href="https://cherryrain-erika.notion.site/KarinAI-Note-e21c32c7265d4ac88883b0f0f670a016">
   <img src="https://img.shields.io/badge/Notion-KARINAI NOTE-DF7857?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
