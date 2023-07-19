@@ -9,7 +9,17 @@
 </a>
 
 <a href="https://cherryrain.itch.io/node-princess">
-  <img src="https://img.shields.io/badge/Download-2A2F3D?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"/>
+  <img src="https://img.shields.io/badge/itch.io-2A2F3D?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"/>
+</a>
+
+</br>
+</br>
+
+## Arithmetic Dungeon
+![ADtitle](https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/873e01e6-848e-4a04-9f37-5d4633eab257)
+
+<a href="https://cherryrain.itch.io/arithmetic-dungeon">
+  <img src="https://img.shields.io/badge/itch.io-2A2F3D?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"/>
 </a>
 
 </br>
