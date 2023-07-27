@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/itch.io-2A2F3D?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"/>
 </a>
 
+<a href="https://indie.onstove.com/ko/games/2128">
+  <img src="https://img.shields.io/badge/Stove Indie-2A2F3D?style=for-the-badge&logo=stove&logoColor=FA5C5C"/>
+</a>
+
 </br>
 </br>
 
