@@ -42,7 +42,7 @@
 ## Karinai
 [![Video Label](http://img.youtube.com/vi/PDt_CBSjzGo/maxresdefault.jpg)](https://youtu.be/PDt_CBSjzGo)
 
-<a href="https://youtu.be/VFez2SPSikg">
+<a href="https://youtube.com/playlist?list=PLzgzkGToCFbVm-CnYI3ZrVgp6q4C4zsK9&si=xWX18GpLVly_0aHb">
   <img src="https://img.shields.io/badge/Playlist-2A2F3D?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
