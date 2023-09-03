@@ -41,6 +41,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cherryrainOuO&repo=GameJam14-2&show_owner=true&theme=calm)](https://github.com/cherryrainOuO/GameJam14-2)
 
 </br>
+</br>
+</br>
 
 > # :bug: Main Project
 
