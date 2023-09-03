@@ -28,10 +28,10 @@
 </br>
 
 <a href="https://solved.ac/choriv1763">
-  <img height=150 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choriv1763" />
+  <img height=152.7 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choriv1763" />
 </a>
 <a href="https://github.com/cherryrainOuO/BOJ">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cherryrainOuO&repo=BOJ&show_owner=true&theme=calm" />
+  <img height=152.7 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cherryrainOuO&repo=BOJ&show_owner=true&theme=calm" />
 </a>
 
 </br>
@@ -75,7 +75,7 @@
 
 > # :herb: Side Project
 
-## :skull: Shader Study 
+## Shader Study 
 <a href="https://cherryrain-erika.notion.site/TA-Study-c122e9ac9689495397a08e9b2b4f7919">
   <img src="https://img.shields.io/badge/Notion-TA Study-DF7857?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
