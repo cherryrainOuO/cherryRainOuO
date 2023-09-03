@@ -27,8 +27,14 @@
 </br>
 </br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choriv1763)](https://solved.ac/choriv1763)
+<a href="https://solved.ac/choriv1763">
+  <img height=150 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choriv1763" />
+</a>
+<a href="https://github.com/cherryrainOuO/BOJ">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cherryrainOuO&repo=BOJ&show_owner=true&theme=calm" />
+</a>
 
+</br>
 </br>
 
 ## KOCCA 2023 Korea Game Jam
@@ -36,7 +42,7 @@
 
 </br>
 
-# :bug: Main Project
+> # :bug: Main Project
 
 ## Node Princess
 
@@ -67,7 +73,7 @@
 </br>
 </br>
 
-# :herb: Side Project
+> # :herb: Side Project
 
 ## :skull: Shader Study 
 <a href="https://cherryrain-erika.notion.site/TA-Study-c122e9ac9689495397a08e9b2b4f7919">
