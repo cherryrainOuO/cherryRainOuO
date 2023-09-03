@@ -14,6 +14,9 @@
 <a href="https://cherryrain.itch.io/">
   <img src="https://img.shields.io/badge/itch.io-373F51?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"/>
 </a>
+<a href="https://indie.onstove.com/ko/games/2128">
+  <img src="https://img.shields.io/badge/Stove Indie-373F51?style=for-the-badge&logo=stove&logoColor=FA5C5C"/>
+</a>
 
 ##
 
