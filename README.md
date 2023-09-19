@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/@cherryrainOwO">
   <img src="https://img.shields.io/badge/YOUTUBE-373F51?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
-<a href="https://cherryrain-erika.notion.site/CherryRain-Public-Notion-292762bbcf504be4ae0997bbaa8f800b?pvs=4">
+<a href="https://cr-e.notion.site/CherryRain-Public-Notion-292762bbcf504be4ae0997bbaa8f800b?pvs=4">
   <img src="https://img.shields.io/badge/Notion-373F51?style=for-the-badge&logo=Notion&logoColor=white"/>
 </a>
 <a href="https://twitter.com/cherryrain1004">
