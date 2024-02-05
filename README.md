@@ -8,9 +8,6 @@
 <a href="https://cherryrain.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-373F51?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
-<a href="https://twitter.com/cherryrain1004">
-  <img src="https://img.shields.io/badge/X(Twitter)-373F51?style=for-the-badge&logo=X&logoColor=000000"/>
-</a>
 <a href="https://cherryrain.itch.io/">
   <img src="https://img.shields.io/badge/itch.io-373F51?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"/>
 </a>
