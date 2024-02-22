@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=OuO&fontColor=FFFFFF&color=C5715D&fontSize=50&animation=fadeIn)
+
+
+<img src="https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/1b613d19-cda8-440f-b0c0-d6efbbbc2346"/>
 
 ##
 
