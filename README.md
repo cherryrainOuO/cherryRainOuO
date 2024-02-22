@@ -2,6 +2,7 @@
 
 ##
 
+<div align="center">
   
 <a href="https://www.youtube.com/@cherryrainOwO">
   <img src="https://img.shields.io/badge/YOUTUBE-373F51?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
@@ -16,6 +17,7 @@
   <img src="https://img.shields.io/badge/Stove Indie-373F51?style=for-the-badge&logo=stove&logoColor=FA5C5C"/>
 </a>
 
+</div>
 
 </br>
 </br>
@@ -49,7 +51,7 @@
 
 ### :page_facing_up: Portfolio
 
-<img height=280 align="right" src="https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/12b2bb10-f529-4ff6-90a7-92590ca21ea0">
+<img height=260 align="right" src="https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/12b2bb10-f529-4ff6-90a7-92590ca21ea0">
 
 > |Title|Devlog|Description|
 > |---|---|---|
