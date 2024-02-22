@@ -2,6 +2,7 @@
 
 ##
 
+  
 <a href="https://www.youtube.com/@cherryrainOwO">
   <img src="https://img.shields.io/badge/YOUTUBE-373F51?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
@@ -15,7 +16,9 @@
   <img src="https://img.shields.io/badge/Stove Indie-373F51?style=for-the-badge&logo=stove&logoColor=FA5C5C"/>
 </a>
 
-##
+
+</br>
+</br>
 
 <a href="https://github.com/cherryrainOuO/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cherryrainOuO&show_icons=true&theme=calm&rank_icon=github" />
@@ -24,72 +27,44 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherryrainOuO&layout=donut&langs_count=8&card_width=320&theme=calm" />
 </a>
 
-</br>
-</br>
 
+* * *
+
+### :green_book: Problem Solving
+
+###### solved.ac
 <a href="https://solved.ac/choriv1763">
-  <img height=152.7 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choriv1763" />
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choriv1763" />
 </a>
+
+</br>
+</br>
+
+###### Repository
 <a href="https://github.com/cherryrainOuO/BOJ">
-  <img height=152.7 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cherryrainOuO&repo=BOJ&show_owner=true&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cherryrainOuO&repo=BOJ&show_owner=true&theme=calm" />
 </a>
 
-</br>
-</br>
+##
 
-## KOCCA 2023 Korea Game Jam
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cherryrainOuO&repo=GameJam14-2&show_owner=true&theme=calm)](https://github.com/cherryrainOuO/GameJam14-2)
+### :page_facing_up: Portfolio
 
-</br>
-</br>
-</br>
+<img height=280 align="right" src="https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/12b2bb10-f529-4ff6-90a7-92590ca21ea0">
 
-> # :bug: Main Project
+> |Title|Devlog|Description|
+> |---|---|---|
+> |[Node Princess](https://cherryrain.tistory.com/49)|[개발일지 #10 - BGM 스케치](https://cherryrain.tistory.com/47)|Game development|
+> |[Arithmetic Dungeon](https://cherryrain.tistory.com/51)|[개발일지 - 초기 컨셉](https://cherryrain.tistory.com/50)|Game development|
+> |Tasukaru_Tas-Girl|[개발일지 #5 - 첫 번째 보스](https://cherryrain.tistory.com/56)|Game development|
+> |[KarinAI](https://cherryrain.tistory.com/95)|[Voice conversion (1)](https://cherryrain.tistory.com/86)|Chatbot project|
+> ||||
+> |[ChickChickPorkPork](https://www.kocca.kr/seriousgame/gameinfo/info.do?gameTp=7&gameNo=56)||KOCCA 2023 Korea Game Jam|
+> ||||
+> |Shader Study|준비중|Main topic : NPR|
 
-## Node Princess
+##
 
-![title](https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/fd772f0e-4186-45b7-888b-4f689e57171a)
+### :white_square_button: Blog
 
-<a href="https://youtu.be/VFez2SPSikg">
-  <img src="https://img.shields.io/badge/Trailer-373F51?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
-</a>
-
-<a href="https://cherryrain.itch.io/node-princess">
-  <img src="https://img.shields.io/badge/itch.io-373F51?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"/>
-</a>
-
-<a href="https://indie.onstove.com/ko/games/2128">
-  <img src="https://img.shields.io/badge/Stove Indie-373F51?style=for-the-badge&logo=stove&logoColor=FA5C5C"/>
-</a>
-
-</br>
-</br>
-
-## Arithmetic Dungeon
-![ADtitle](https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/873e01e6-848e-4a04-9f37-5d4633eab257)
-
-<a href="https://cherryrain.itch.io/arithmetic-dungeon">
-  <img src="https://img.shields.io/badge/itch.io-373F51?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C"/>
-</a>
-
-</br>
-</br>
-</br>
-
-> # :herb: Side Project
-
-## Shader Study 
-<a href="https://cherryrain-erika.notion.site/TA-Study-c122e9ac9689495397a08e9b2b4f7919">
-  <img src="https://img.shields.io/badge/Notion-TA Study-DF7857?style=for-the-badge&logo=Notion&logoColor=white"/>
-</a>
-
-</br>
-</br>
-
-## Karinai
-[![Video Label](http://img.youtube.com/vi/PDt_CBSjzGo/maxresdefault.jpg)](https://youtu.be/PDt_CBSjzGo)
-
-<a href="https://cherryrain-erika.notion.site/KarinAI-Note-e21c32c7265d4ac88883b0f0f670a016">
-  <img src="https://img.shields.io/badge/Notion-KARINAI NOTE-DF7857?style=for-the-badge&logo=Notion&logoColor=white"/>
-</a>
-
+###### Tistory
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cherryrain&postId=&theme=kakao)](https://cherryrain.tistory.com/)
