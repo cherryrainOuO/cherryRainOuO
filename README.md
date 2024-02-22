@@ -51,8 +51,10 @@
 
 ### :page_facing_up: Portfolio
 
-<img height=240 align="right" src="https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/12b2bb10-f529-4ff6-90a7-92590ca21ea0">
-
+<table>
+  <tr>
+    <td>
+      
 > |Title|Devlog|Description|
 > |---|---|---|
 > |[Node Princess](https://cherryrain.tistory.com/49)|[개발일지 #10 - BGM 스케치](https://cherryrain.tistory.com/47)|Game development|
@@ -63,6 +65,15 @@
 > |[ChickChickPorkPork](https://www.kocca.kr/seriousgame/gameinfo/info.do?gameTp=7&gameNo=56)||KOCCA 2023 Korea Game Jam|
 > ||||
 > |Shader Study|준비중|Main topic : NPR|
+
+  </td>
+    <td>
+    <img src="https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/12b2bb10-f529-4ff6-90a7-92590ca21ea0">
+    </td>
+  </tr>
+</table>
+
+
 
 ##
 
