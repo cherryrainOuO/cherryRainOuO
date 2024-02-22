@@ -22,12 +22,23 @@
 </br>
 </br>
 
-<a href="https://github.com/cherryrainOuO/github-readme-stats">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/cherryrainOuO/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cherryrainOuO&show_icons=true&theme=calm&rank_icon=github" />
 </a>
-<a href="https://github.com/cherryrainOuO/convoychat">
+    </td>
+    <td>
+    <a href="https://github.com/cherryrainOuO/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherryrainOuO&layout=donut&langs_count=8&card_width=320&theme=calm" />
-</a>
+    </a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 * * *
