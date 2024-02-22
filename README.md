@@ -51,7 +51,7 @@
 
 ### :page_facing_up: Portfolio
 
-<img height=250 align="right" src="https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/12b2bb10-f529-4ff6-90a7-92590ca21ea0">
+<img height=240 align="right" src="https://github.com/cherryrainOuO/cherryRainOuO/assets/117277361/12b2bb10-f529-4ff6-90a7-92590ca21ea0">
 
 > |Title|Devlog|Description|
 > |---|---|---|
