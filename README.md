@@ -65,7 +65,7 @@
 ||||
 |[ChickChickPorkPork](https://www.kocca.kr/seriousgame/gameinfo/info.do?gameTp=7&gameNo=56)||KOCCA 2023 Korea Game Jam|
 ||||
-|Shader Study|준비중|Main topic : NPR|
+|Shader Study|[Halftone Shader](https://cherryrain.tistory.com/100)|Main topic : NPR|
 
   </td>
     <td>
