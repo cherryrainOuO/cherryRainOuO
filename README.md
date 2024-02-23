@@ -61,7 +61,7 @@
 |[Node Princess](https://cherryrain.tistory.com/49)|[개발일지 #10 - BGM 스케치](https://cherryrain.tistory.com/47)|Game development|
 |[Arithmetic Dungeon](https://cherryrain.tistory.com/51)|[개발일지 - 초기 컨셉](https://cherryrain.tistory.com/50)|Game development|
 |Tasukaru_Tas-Girl|[개발일지 #5 - 첫 번째 보스](https://cherryrain.tistory.com/56)|Game development|
-|[KarinAI](https://cherryrain.tistory.com/95)|[Voice conversion (1)](https://cherryrain.tistory.com/86)|Chatbot project|
+|[KarinAI](https://cherryrain.tistory.com/95)|[Voice conversion (1)](https://cherryrain.tistory.com/86)|AI Chatbot project|
 ||||
 |[ChickChickPorkPork](https://www.kocca.kr/seriousgame/gameinfo/info.do?gameTp=7&gameNo=56)||KOCCA 2023 Korea Game Jam|
 ||||
