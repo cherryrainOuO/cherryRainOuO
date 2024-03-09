@@ -78,7 +78,3 @@
 
 ##
 
-### :white_square_button: Blog
-
-###### Tistory
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cherryrain&postId=&theme=kakao)](https://cherryrain.tistory.com/)
